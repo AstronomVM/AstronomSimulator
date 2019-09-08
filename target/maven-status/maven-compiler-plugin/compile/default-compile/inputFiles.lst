@@ -1,0 +1,12 @@
+/home/ahmed/git/AstronomVM/AstronomSimulator/src/main/java/com/astronomvm/simulator/configuration/ClientInfoContributor.java
+/home/ahmed/git/AstronomVM/AstronomSimulator/src/main/java/com/astronomvm/simulator/AstronomSimulatorApplication.java
+/home/ahmed/git/AstronomVM/AstronomSimulator/src/main/java/com/astronomvm/simulator/configuration/WebSocketConfig.java
+/home/ahmed/git/AstronomVM/AstronomSimulator/src/main/java/com/astronomvm/simulator/service/ComponentMetaService.java
+/home/ahmed/git/AstronomVM/AstronomSimulator/src/main/java/com/astronomvm/simulator/rest/WebSocketRest.java
+/home/ahmed/git/AstronomVM/AstronomSimulator/src/main/java/com/astronomvm/simulator/monitoring/OrchestraEventsPublisher.java
+/home/ahmed/git/AstronomVM/AstronomSimulator/src/main/java/com/astronomvm/simulator/service/EngineService.java
+/home/ahmed/git/AstronomVM/AstronomSimulator/src/main/java/com/astronomvm/simulator/monitoring/MonitoringEvent.java
+/home/ahmed/git/AstronomVM/AstronomSimulator/src/main/java/com/astronomvm/simulator/rest/EngineRest.java
+/home/ahmed/git/AstronomVM/AstronomSimulator/src/main/java/com/astronomvm/simulator/rest/ComponentMetaRest.java
+/home/ahmed/git/AstronomVM/AstronomSimulator/src/main/java/com/astronomvm/simulator/monitoring/MonitoringEventPayload.java
+/home/ahmed/git/AstronomVM/AstronomSimulator/src/main/java/com/astronomvm/simulator/monitoring/ComponentLogManager.java
